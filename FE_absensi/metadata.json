@@ -1,0 +1,7 @@
+{
+  "name": "AbsenFlow - Smart Attendance System",
+  "description": "A modern attendance management system featuring authentication, real-time check-in/out, attendance history, and AI-powered insights for performance analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
